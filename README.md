@@ -8,7 +8,7 @@
    * CSS
 
 ## Website
-https://wloyola25.github.io/William-Amazing-Portfolio/
+https://wloyola25.github.io/WilliamStarterPortfolio/
 
 ## Contributions
 
